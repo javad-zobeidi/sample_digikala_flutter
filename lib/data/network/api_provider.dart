@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 
-const baseUrl = "https://codevolution.ir/digikala/api/v1/";
+const baseUrl = "";
 
 class ApiProvider {
 
